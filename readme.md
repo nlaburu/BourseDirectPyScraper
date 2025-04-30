@@ -25,6 +25,17 @@ Un petit script Python pour accéder au solde total de votre portefeuille sur le
 pip install -r requirements.txt
 ```
 
+## 🛠️ Installation
+
+Le script peut être utilisé de deux manières : en mode dynamique ou en mode fixe. 
+
+### Mode dynamique
+```bash
+python3 main.py [user] [password] [otp_code]
+```
+### Mode fixe
+Le mode fixe permet d’extraire le solde automatiquement en appelant la fonction depuis un script Python avec les identifiants fournis directement dans le code.
+
 ## 💡 Remarques
 
 - Ce script fonctionne uniquement sur la version **Web Desktop** de Bourse Direct.
