@@ -25,7 +25,7 @@ Un petit script Python pour accéder au solde total de votre portefeuille sur le
 pip install -r requirements.txt
 ```
 
-## 🛠️ Installation
+## 🚀 Utilisation
 
 Le script peut être utilisé de deux manières : en mode dynamique ou en mode fixe. 
 
